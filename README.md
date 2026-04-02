@@ -23,4 +23,5 @@
 
 </body>
 </html>
+<p> Como ter Iluminação global</p>
 <img src="RobloxScreenShot20260402_152144862.png">
