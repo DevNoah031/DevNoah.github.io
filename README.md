@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Noah Dev Academy</title>
+
 </head>
 <body>
 
@@ -12,7 +12,8 @@
   <ul>
     <li>Como fazer porta automática</li>
     <li>Sistema de vida</li>
-    <li>Loja de espadas</li>
+    <li>Loja de espadas</li> 
+    <li>iluminação proficional</li>
   </ul>
 
   <h2>🎮 Meus Projetos</h2>
