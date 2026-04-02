@@ -23,4 +23,4 @@
 
 </body>
 </html>
-<img src="Roblox/RobloxScreenShot20260402_152144862.png" width="400">
+<img src="RobloxScreenShot20260402_152144862.png">
