@@ -1,1 +1,25 @@
-# DevNoah.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Noah Dev Academy</title>
+</head>
+<body>
+
+  <h1>Noah Dev Academy 🚀</h1>
+  <p>Aprenda a criar jogos incríveis no Roblox do zero.</p>
+
+  <h2>📚 Aulas</h2>
+  <ul>
+    <li>Como fazer porta automática</li>
+    <li>Sistema de vida</li>
+    <li>Loja de espadas</li>
+  </ul>
+
+  <h2>🎮 Meus Projetos</h2>
+  <p>Em breve você verá meus jogos aqui.</p>
+
+  <h2>🔥 Sobre mim</h2>
+  <p>Sou um criador de jogos e futuro empresário criando minha própria plataforma.</p>
+
+</body>
+</html>
