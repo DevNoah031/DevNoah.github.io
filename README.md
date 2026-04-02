@@ -26,9 +26,7 @@
 <p> Guia completo de como ter a melhor iluminação para seu jogo.</p>
 <img src="RobloxScreenShot20260402_152144862.png">
 
-<p> *Este conteúdo é traduzido por IA (Beta) e pode conter erros. Para ver a página em inglês, clique aqui.
-
-O serviço Lighting contém propriedades que você pode ajustar para atualizar e personalizar a iluminação global em uma experiência. Existem cinco categorias de propriedades de iluminação:
+<p> O serviço Lighting contém propriedades que você pode ajustar para atualizar e personalizar a iluminação global em uma experiência. Existem cinco categorias de propriedades de iluminação:
 
 Cor — Configura o tom dentro da experiência.
 Intensidade — Configura a intensidade ou a quantidade de luz que atinge a câmera.
