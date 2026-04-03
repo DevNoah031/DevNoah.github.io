@@ -62,15 +62,18 @@ Botão esquerdo → selecionar objetos
 🧱 Ferramentas principais
   <img src="unnamed.jpg" width="400">
 
+  <h2>🎥 Aula de Iluminação</h2>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/YpnsyYVoAKE?autoplay=1&mute=1&controls=0&loop=1&playlist=YpnsyYVoAKE"
+frameborder="0"
+allow="autoplay"
+allowfullscreen>
+</iframe>
+
   <h2>🎥 Aula de Iluminação no Roblox</h2>
 
 <p>Aprenda a melhorar a iluminação do seu jogo no Roblox Studio.</p>
-
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/YpnsyYVoAKE" 
-frameborder="0" 
-allowfullscreen>
-</iframe>
 
   Na Aba Principal temos as ferramentas:
 
