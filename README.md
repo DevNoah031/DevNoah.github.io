@@ -19,7 +19,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <Veja minhas aulas no youtube>link a baixo>
+  <VEJA Minhas aulas link a baixo>
 </head>
 <body>
 
