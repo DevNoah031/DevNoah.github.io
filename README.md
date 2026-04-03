@@ -64,11 +64,10 @@ Botão esquerdo → selecionar objetos
 
   <h2>🎥 Aula de Iluminação</h2>
 
-<iframe width="560" height="315"
+<iframe width="100%" height="400"
 src="https://www.youtube.com/embed/YpnsyYVoAKE?autoplay=1&mute=1&controls=0&loop=1&playlist=YpnsyYVoAKE"
 frameborder="0"
-allow="autoplay"
-allowfullscreen>
+allow="autoplay">
 </iframe>
 
   <h2>🎥 Aula de Iluminação no Roblox</h2>
