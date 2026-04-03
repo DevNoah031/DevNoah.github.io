@@ -17,7 +17,7 @@
       <li>Aprenda a trabalhar com modelos 3D no blender</li>
 
     <a href="https://www.youtube.com/@DevBuilderStudio" target="_blank">
-  Meu canal no YouTube
+  🔴 Se inscreve no canal
 </a>
 
   </ul>
