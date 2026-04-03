@@ -46,15 +46,18 @@ Move → mover objetos
 Scale → aumentar/diminuir
 Rotate → girar objetos
 Select → selecionar
+
 🧠 Dica importante
 Use Shift + clique pra selecionar vários objetos
 Use Ctrl + D para duplicar
 Use Delete para apagar
+
 🎯 Sistema de construção
 Clique em Part para criar blocos
 Use Material para mudar textura
 Use Color para mudar a cor
 Ajuste tamanho com Scale
+
 🚀 Dica avançada (pra ficar profissional)
 Use Snap to Grid pra alinhar tudo certinho
 Use Anchor pra deixar o objeto parado (não cair)
