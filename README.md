@@ -19,10 +19,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <VEJA Minhas aulas link a baixo>
+
 </head>
 <body>
-
+  
+  <h1> Veja Minhas aulas link abaixo.</h1>
+  
 <h1>Bem-vindo</h1>
 
 <a href="https://www.youtube.com/@DevBuilderStudio" target="_blank">
