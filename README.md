@@ -62,7 +62,7 @@ Botão esquerdo → selecionar objetos
 🧱 Ferramentas principais
   <img src="unnamed.jpg" width="400">
 
-  <img src=
+  <img src="Gemini_Generated_Image_ydzk7yydzk7yydzk.png">
 
 Na aba “Home” ou “Model” você vai usar:
 
