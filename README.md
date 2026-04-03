@@ -16,9 +16,21 @@
     <li>iluminação proficional</li>
       <li>Aprenda a trabalhar com modelos 3D no blender</li>
 
-    <a href="https://www.youtube.com/@DevBuilderStudio" target="_blank">
-  🔴 Se inscreve no canal
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Site</title>
+</head>
+<body>
+
+<h1>Bem-vindo</h1>
+
+<a href="https://www.youtube.com/@DevBuilderStudio" target="_blank">
+  🔴 Meu canal no YouTube
 </a>
+
+</body>
+</html>
 
   </ul>
 
