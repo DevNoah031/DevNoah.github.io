@@ -22,6 +22,8 @@
   <h2>🔥 Sobre mim</h2>
   <p>Sou um criador de jogos e futuro empresário criando minha própria plataforma.</p>
   
+  <img src="unnamed.jpg" width="400">
+  
 </body>
 </html>
 <p> Guia completo de como ter a melhor iluminação para seu jogo.</p>
