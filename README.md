@@ -15,6 +15,11 @@
     <li>Loja de espadas</li> 
     <li>iluminação proficional</li>
       <li>Aprenda a trabalhar com modelos 3D no blender</li>
+
+    <a href="https://www.youtube.com/@DevBuilderStudio" target="_blank">
+  Meu canal no YouTube
+</a>
+
   </ul>
 
   <h2>🎮 Meus Projetos</h2>
