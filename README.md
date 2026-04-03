@@ -62,6 +62,8 @@ Botão esquerdo → selecionar objetos
 🧱 Ferramentas principais
   <img src="unnamed.jpg" width="400">
 
+  <img src=
+
 Na aba “Home” ou “Model” você vai usar:
 
 Move → mover objetos
