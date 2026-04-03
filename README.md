@@ -21,8 +21,43 @@
 
   <h2>🔥 Sobre mim</h2>
   <p>Sou um criador de jogos e futuro empresário criando minha própria plataforma.</p>
+
   
+  🎮 Guia Básico do Roblox Studio
+🧭 Movimentação na Câmera
+
+Use essas teclas para navegar na visão do estúdio:
+
+W, A, S, D → mover a câmera
+Q → subir
+E → descer
+Shift + W/A/S/D → mover mais rápido
+R → girar o objeto selecionado
+🖱️ Controles do Mouse
+Botão direito + arrastar → olhar ao redor
+Scroll (rodinha) → zoom
+Botão esquerdo → selecionar objetos
+🧱 Ferramentas principais
   <img src="unnamed.jpg" width="400">
+
+Na aba “Home” ou “Model” você vai usar:
+
+Move → mover objetos
+Scale → aumentar/diminuir
+Rotate → girar objetos
+Select → selecionar
+🧠 Dica importante
+Use Shift + clique pra selecionar vários objetos
+Use Ctrl + D para duplicar
+Use Delete para apagar
+🎯 Sistema de construção
+Clique em Part para criar blocos
+Use Material para mudar textura
+Use Color para mudar a cor
+Ajuste tamanho com Scale
+🚀 Dica avançada (pra ficar profissional)
+Use Snap to Grid pra alinhar tudo certinho
+Use Anchor pra deixar o objeto parado (não cair)
   
 </body>
 </html>
