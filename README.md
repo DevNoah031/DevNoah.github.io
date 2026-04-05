@@ -108,3 +108,11 @@ Sombras — Configura como um usuário percebe as sombras dentro da experiência
 Aparência — Propriedades que determinam o estilo de iluminação e a qualidade de iluminação/sombreamento ou priorização da distância de visualização.
 
 Ambiente — Configura as condições do mundo da experiência, como a hora do dia e a latitude geográfica.</p>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "w74pckgx7d");
+</script>
