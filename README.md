@@ -108,4 +108,13 @@ Sombras — Configura como um usuário percebe as sombras dentro da experiência
 Aparência — Propriedades que determinam o estilo de iluminação e a qualidade de iluminação/sombreamento ou priorização da distância de visualização.
 
 Ambiente — Configura as condições do mundo da experiência, como a hora do dia e a latitude geográfica.</p>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JQB1DS299Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JQB1DS299Q');
+</script>
 
