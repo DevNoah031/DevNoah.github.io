@@ -107,4 +107,76 @@ Sombras — Configura como um usuário percebe as sombras dentro da experiência
 
 Aparência — Propriedades que determinam o estilo de iluminação e a qualidade de iluminação/sombreamento ou priorização da distância de visualização.
 
-Ambiente — Configura as condições do mundo da experiência, como a hora do dia e a latitude geográfica.</p>
+Ambiente — Configura as condições do mundo da experiência, como a hora do dia e a latitude geográfica.</p> 
+
+GUIA COMPLETO DE COMO TER UMA ILUMINAÇÃO COMO NA FOTO NO SEU ROBLOX STUDIO:
+
+💡 Configurações de Lighting no Roblox Studio
+
+🌑 Ambient
+
+Define a iluminação geral das sombras do mapa (o que fica escuro não fica totalmente preto).
+👉 Configuração: [0, 0, 0]
+(ou [16, 16, 16] se quiser sombras mais claras)
+
+☀️ Brightness
+
+Controla a intensidade da luz do “sol”.
+👉 Configuração: 4
+(pode ir até 10, mas 4 já fica bonito e realista)
+
+🎨 ColorShift_Top
+
+Muda a cor da iluminação nas partes de cima (luz do ambiente).
+👉 Configuração: [255, 191, 146]
+(dá um tom quente e realista, tipo pôr do sol sexy 😮‍🔥)
+
+🎨 ColorShift_Bottom
+
+Muda a cor da iluminação nas partes de baixo (sombras/reflexos).
+👉 Configuração: [0, 0, 0]
+
+🌍 EnvironmentDiffuseScale
+
+Controla como a luz se espalha pelo ambiente.
+👉 Configuração: 0.043
+
+✨ EnvironmentSpecularScale
+
+Define o brilho/reflexo das superfícies.
+👉 Configuração: 0.635
+
+🌑 GlobalShadows
+
+Ativa sombras reais no jogo.
+👉 Configuração: Ativado ✅
+
+🎭 LightingStyle
+
+Define o estilo da iluminação.
+👉 Configuração: Soft
+(deixa tudo mais suave e bonito)
+
+🌌 OutdoorAmbient
+
+Define a cor da luz externa nas sombras.
+👉 Configuração: [0, 0, 0]
+
+⚡ PrioritizeLightingQuality
+
+Prioriza qualidade ao invés de performance.
+👉 Configuração: Ativado ✅
+
+⏰ ClockTime
+
+Define o horário do dia no jogo.
+👉 Configuração: 8.977
+(manhãzinha com luz bonita)
+
+🌎 GeographicLatitude
+
+Controla a posição do sol no mapa.
+👉 Configuração: -51.549
+
+💬 Dica final (presta atenção aqui 👀):
+Essas configs são estilo “mapa bonito e realista”. Se quiser algo mais dark, terror ou futurista, dá pra brincar MUITO com o ColorShift e Brightness.
