@@ -178,5 +178,5 @@ Define o horário do dia no jogo.
 Controla a posição do sol no mapa.
 👉 Configuração: -51.549
 
-💬 Dica final (presta atenção aqui 👀):
+💬 Dica final presta atenção aqui 👀:
 Essas configs são estilo “mapa bonito e realista”. Se quiser algo mais dark, terror ou futurista, dá pra brincar MUITO com o ColorShift e Brightness.
